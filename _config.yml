@@ -1,0 +1,6 @@
+title: Personal Website
+theme: minima
+baseurl: "/personal-website"
+markdown: kramdown
+
+destination: _site
